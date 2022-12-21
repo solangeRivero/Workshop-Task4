@@ -1,0 +1,60 @@
+.check{
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    margin: 40px;
+}
+
+.card{
+    display:flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    text-align: center;
+    margin: 20px;
+}
+#linC{
+    background-color: black;
+    border-color: black;
+}
+#linC:hover{
+    background-color: #E30052;
+}
+
+.table{
+    margin-top: 100px;
+    text-transform: uppercase;
+}
+.table2{
+    background-color: #E30052;
+    color: white;
+}
+#tc{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 30px;
+}
+footer a{
+    text-decoration: none;
+    color: white;
+    display: inline-block;
+    margin: 3px;
+    font-size: 26px;
+}
+.card-header{
+text-transform: uppercase;
+}
+#cardDetails{
+    background-color: rgb(201, 136, 136);
+    color: white;
+    display:flex;
+    justify-content: center;
+}
+.d-flex{
+    padding: 5px 50px 5px;
+}
